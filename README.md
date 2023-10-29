@@ -17,3 +17,8 @@ The [eda](https://github.com/jacksonns/Truth-Social-Conspiracy/blob/main/eda.ipy
 ### Conspiracy Analysis
 
 The [conspiracy](https://github.com/jacksonns/Truth-Social-Conspiracy/blob/main/conspiracy.ipynb) notebook analyzes the conspiracy related posts using key terms (such as "flat earth" or "qanon"), external links (from Rumble, OANN, telegram, etc) and hashtags, such as #MAGA, #WWG1WGA, #thegreatawakening, #electionfraud.
+
+### Network Structure Analysis
+
+The [network](https://github.com/jacksonns/Truth-Social-Conspiracy/blob/main/network.ipynb) notebook contains the structural analysis of the Truth Social's graph, modeled by the reposts relationships. The analysis involves node degree distribution, strongly connected components, distance distribution, clustering coefficients, graph resilience and assortativity.
+
