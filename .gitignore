@@ -1,2 +1,4 @@
 # Jupyter Notebooks Checkpoints
 .ipynb_checkpoints
+*.gephi
+*.graphml
