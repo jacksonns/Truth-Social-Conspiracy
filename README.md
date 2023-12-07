@@ -14,11 +14,19 @@ The [database](https://github.com/jacksonns/Truth-Social-Conspiracy/blob/main/da
 
 The [eda](https://github.com/jacksonns/Truth-Social-Conspiracy/blob/main/eda.ipynb) notebook contains initial exploratory analysis of Truth Social content and users, such as frequent words and emojis on most engaged posts using some Natural Language Processing (NLP) techniques, visualization of most engaged users and analysis of posts frequency over time.
 
-### Conspiracy Analysis
-
-The [conspiracy](https://github.com/jacksonns/Truth-Social-Conspiracy/blob/main/conspiracy.ipynb) notebook analyzes the conspiracy related posts using key terms (such as "flat earth" or "qanon"), external links (from Rumble, OANN, telegram, etc) and hashtags, such as #MAGA, #WWG1WGA, #thegreatawakening, #electionfraud.
 
 ### Network Structure Analysis
 
 The [network](https://github.com/jacksonns/Truth-Social-Conspiracy/blob/main/network.ipynb) notebook contains the structural analysis of the Truth Social's graph, modeled by the reposts relationships. The analysis involves node degree distribution, strongly connected components, distance distribution, clustering coefficients, graph resilience and assortativity.
+
+
+### Conspiracy Analysis
+
+The [conspiracy](https://github.com/jacksonns/Truth-Social-Conspiracy/blob/main/conspiracy.ipynb) notebook analyzes the conspiracy related posts and its connections. The analysed conspiracies involves QAnon, Election Fraud and Climate Change. 
+
+
+## Results
+
+This work presented some new information regarding the dynamics of conspiracy theories on the Truth Social platform, a pro-Trump social network that has been relatively unexplored in the literature. Through content analysis, it was possible to observe that conspiratorial groups rely on the dissemination of misinformation and fake news, extending their discussions to a wide variety of topics. In the analysis of external links, I observed that QAnon conspirators tend to share more links to the Telegram platform, where they create conspiratorial groups. On the other hand, those related to election fraud choose to share links to news websites known for spreading false information, such as thegatewaypundit, thefederalist, and justthenews. Furthermore, considering the analysis of the connection graph among conspiratorial users, it was noticeable that those users who believe in more than one conspiracy tend to connect more with each other, forming a hub for the dissemination of theories. It was also observed that former President Donald Trump is a central figure and of great importance for the spread of theories involving electoral fraud, as he is the most influential personality on this network.
+
 
